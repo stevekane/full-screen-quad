@@ -1,28 +1,28 @@
 {
-  "name": "big-triangle",
+  "name": "full-screen-quad",
   "version": "1.0.0",
-  "description": "2-4 dimensional \"big triangle\" useful for full-screen webgl shaders",
+  "description": "2-4 dimensional \"full-screen quad\" useful for full-screen webgl shaders",
   "main": "index.js",
   "scripts": {
     "test": "node test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevekane/big-triangle.git"
+    "url": "git+https://github.com/stevekane/full-screen-quad.git"
   },
   "keywords": [
     "webgl",
     "opengl",
     "fragment",
     "big",
-    "triangle"
+    "quad"
   ],
   "author": "Steve Kane",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stevekane/big-triangle/issues"
+    "url": "https://github.com/stevekane/full-screen-quad/issues"
   },
-  "homepage": "https://github.com/stevekane/big-triangle#readme",
+  "homepage": "https://github.com/stevekane/full-screen-quad#readme",
   "devDependencies": {
     "tape": "^4.6.3"
   }
